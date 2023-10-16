@@ -5,7 +5,9 @@ Atividade treinamento visando utilização do algoritmo XGboost.
 ---
 
 Linguagem: Python
+
 Ambiente: Jupyter Notebook
+
 tema: Predição de Vendas
 
 ---
