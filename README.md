@@ -1,4 +1,4 @@
-# Modelo | Sagemaker-XGboost
+# Model | Sagemaker_XGboost
 
 Atividade de treinamento visando utilização do algoritmo XGboost.
 
