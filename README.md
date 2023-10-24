@@ -8,7 +8,7 @@ Linguagem: Python
 
 Ambiente: Jupyter Notebook
 
-tema: Predição de Vendas
+Tema: Predição de Vendas
 
 ---
 
